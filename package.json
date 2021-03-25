@@ -3,13 +3,23 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": "live-server --port=3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Darius Jasinskas",
   "license": "ISC",
   "keywords": [],
-  "description": "",
   "dependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darius717/6-coming-soon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Darius717/6-coming-soon/issues"
+  },
+  "homepage": "https://github.com/Darius717/6-coming-soon#readme",
+  "description": ""
 }
